@@ -10,16 +10,18 @@
 
 ---
 
-> 2. Encapsulation (getter dan setter)
+> 2. Encapsulation (Getter dan Setter)
 
 > Getter
+
+
 ![image](https://github.com/user-attachments/assets/71c79c8e-b765-4242-8739-42e79886e991)
 
 ![image](https://github.com/user-attachments/assets/cec1c3ef-a9be-42cc-86eb-6ae14a014648)
 
----
-
 > Setter
+
+
 ![image](https://github.com/user-attachments/assets/a4046f20-6aaf-4751-be04-72b7920cc002)
 
 ![image](https://github.com/user-attachments/assets/310202eb-3e1b-4403-a040-2b1a36ce0e5c)
@@ -40,7 +42,8 @@
 
 > 5. Final Keyword
 
-![image](https://github.com/user-attachments/assets/4ce71e5c-1142-40c9-bfb9-8f684c3597bc)
+![image](https://github.com/user-attachments/assets/f7d476b9-4148-42ed-9edb-46d351976042)
+
 
 
 ---
