@@ -1,7 +1,15 @@
 # Sistem Manajemen Kendaraan
 
+## Menambah Fitur Baru 
+> 1. Menu `Cari Kendaraan` : Berisikan fitur yang bisa mencari kendaraan dengan memasukan plat yang ingin dicari
+
+![image](https://github.com/user-attachments/assets/2aa2b722-1c8e-44b1-9eda-431dbcfa3c39)
+
+![image](https://github.com/user-attachments/assets/43deedfc-fdae-4586-b048-84ae3013eabc)
+
+
 ---
-## Menerapkan Fitur Baru
+## Menerapkan Ketentuan Baru
 > 1. Inheritance
 
 ![image](https://github.com/user-attachments/assets/7b04b1a2-e7e7-4270-bdf9-a60a566fb181)
