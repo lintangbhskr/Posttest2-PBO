@@ -1,0 +1,6 @@
+kendaraan\KendaraanCRUD.class
+kendaraan\KendaraanManager.class
+kendaraan\Mobil.class
+kendaraan\Motor.class
+com\mycompany\manajemen_kendaraan\Manajemen_Kendaraan.class
+kendaraan\Kendaraan.class
